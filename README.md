@@ -1,15 +1,15 @@
-## BEFORE RUN PROJECT
+# BEFORE RUN PROJECT
 
-install docker in browser
-https://docs.docker.com/desktop/setup/install/windows-install/
+<a href="https://docs.docker.com/desktop/setup/install/windows-install">install</a> docker
 
-# after install open and write in bash
+## After install open and write in bash
 ```bash
 $ docker-compose up -d
 ```
 ## Set settings
-copy env_example
-paste and rename to .env
+- copy env_example
+- paste to root
+- rename to .env
 
 ## Installation
 
